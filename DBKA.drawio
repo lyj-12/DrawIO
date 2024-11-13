@@ -489,19 +489,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="70" y="275" width="115" height="30" as="geometry" />
+          <mxGeometry x="87.5" y="280" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-3" target="SpKDMFF-HmE3Y4ZA9n4w-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-3" value="Import wind speed time series signal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="345" width="130" height="30" as="geometry" />
+          <mxGeometry x="80" y="350" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-5" target="ceAgw203aL2IVThIWNhY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-5" value="Obtain the optimal parameters for VMD:&amp;nbsp; alpha and&amp;nbsp; k&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="510" width="170" height="40" as="geometry" />
+          <mxGeometry x="60" y="495" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgNO8CmT30Zn9UBxikKF-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-6" target="SpKDMFF-HmE3Y4ZA9n4w-1">
           <mxGeometry relative="1" as="geometry">
@@ -509,28 +509,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-6" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Output the processed data&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="710" width="115" height="40" as="geometry" />
+          <mxGeometry x="87.5" y="695" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XgNO8CmT30Zn9UBxikKF-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-9" target="XgNO8CmT30Zn9UBxikKF-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-9" value="ANFIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="335" width="166" height="50" as="geometry" />
+          <mxGeometry x="470" y="590" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-11" target="ceAgw203aL2IVThIWNhY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-11" value="Obtain the optimal ANFIS parameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="538" y="275" width="130" height="30" as="geometry" />
+          <mxGeometry x="488" y="530" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-17" target="ceAgw203aL2IVThIWNhY-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Decompose the wind speed time series signal using VMD with parameters  alpha and  k&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="570" width="170" height="50" as="geometry" />
+          <mxGeometry x="60" y="555" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceAgw203aL2IVThIWNhY-19" target="ceAgw203aL2IVThIWNhY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceAgw203aL2IVThIWNhY-19" value="Reconstruct each subsequence by PSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="170" height="40" as="geometry" />
+          <mxGeometry x="60" y="625" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgNO8CmT30Zn9UBxikKF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XgNO8CmT30Zn9UBxikKF-59" target="XgNO8CmT30Zn9UBxikKF-61">
           <mxGeometry relative="1" as="geometry" />
@@ -589,6 +592,9 @@
         </mxCell>
         <mxCell id="XgNO8CmT30Zn9UBxikKF-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XgNO8CmT30Zn9UBxikKF-96" target="XgNO8CmT30Zn9UBxikKF-69">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XgNO8CmT30Zn9UBxikKF-122" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Output the predicted data&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="500.75" y="680" width="104.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
