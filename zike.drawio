@@ -923,7 +923,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tay9Sp6sHCbueX2-WzHd" name="研究二技术路线图">
-    <mxGraphModel dx="2200" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1963" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1678,6 +1678,12 @@
         </mxCell>
         <mxCell id="vBHUdvwqJ2FdOlbnqpGV-212" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;arcSize=4;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1880" width="240" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vBHUdvwqJ2FdOlbnqpGV-215" value="&lt;span style=&quot;font-size:12.0pt;font-family:楷体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;联邦强化学习&lt;/span&gt;" style="whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.32" y="1960" width="183.68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBHUdvwqJ2FdOlbnqpGV-217" value="&lt;span style=&quot;font-family: 楷体; font-size: 16px; text-align: left;&quot;&gt;时空克里金插值优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.32" y="2012.62" width="183.68" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
