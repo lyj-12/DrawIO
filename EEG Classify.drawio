@@ -3603,7 +3603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_IsilCKw7y5HVwIOCT3p" name="GTMA">
-    <mxGraphModel dx="815" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="475" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4270,6 +4270,12 @@
         <mxCell id="_vNEgI4OI9tCpyt-ZPrJ-32" value="Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1710" y="580" width="40" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="pL3IWHJHc9V4ILLwVeeR-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#D5E8D4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1535.38" y="730" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pL3IWHJHc9V4ILLwVeeR-2" value="Avg Pool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1537.88" y="751" width="50" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -4460,7 +4466,7 @@
         <mxCell id="Syk7P_v_6nfj6l_qEpJH-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="555" y="1180" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Syk7P_v_6nfj6l_qEpJH-10" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="Syk7P_v_6nfj6l_qEpJH-10" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="555" y="1110" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Syk7P_v_6nfj6l_qEpJH-11" value="Avg pool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
