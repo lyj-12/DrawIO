@@ -7986,7 +7986,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EMCS 的副本" id="jR_JupJkfDSBjB2jFRn0">
-    <mxGraphModel dx="1642" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2505" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="2FFZ5rd6S4JmuVlkZqiK-0" />
         <mxCell id="2FFZ5rd6S4JmuVlkZqiK-1" parent="2FFZ5rd6S4JmuVlkZqiK-0" />
@@ -8037,7 +8037,7 @@
           <mxGeometry x="182.24" y="430" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2FFZ5rd6S4JmuVlkZqiK-13" value="自适应性体现在 &lt;code data-start=&quot;1318&quot; data-end=&quot;1337&quot;&gt;AdaptiveAvgPool1d&lt;/code&gt; 根据输入序列长度动态调整池化参数，使得不同长度和采样率的 EEG 与外周生理信号都能被映射到统一的时间尺度，从而实现跨模态特征对齐与多尺度信息抽取。" style="text;whiteSpace=wrap;html=1;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
-          <mxGeometry x="-560" y="170" width="560" height="70" as="geometry" />
+          <mxGeometry x="-740" y="104.5" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2FFZ5rd6S4JmuVlkZqiK-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Long kernel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
           <mxGeometry x="209.9" y="331" width="60" height="20" as="geometry" />
@@ -8700,10 +8700,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NRhnpXC1lsk-8XoDZh1h-0" value="$$X \in [B,C_1,T]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
-          <mxGeometry x="226.88" y="266" width="68" height="20" as="geometry" />
+          <mxGeometry x="233.01" y="252.34" width="68" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NRhnpXC1lsk-8XoDZh1h-1" value="$$X \in [B,C_2,T]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
-          <mxGeometry x="387.54" y="266" width="68" height="20" as="geometry" />
+        <mxCell id="NRhnpXC1lsk-8XoDZh1h-1" value="$$Y \in [B,C_2,T]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
+          <mxGeometry x="382" y="251.33999999999997" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NRhnpXC1lsk-8XoDZh1h-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=none;" parent="2FFZ5rd6S4JmuVlkZqiK-1" vertex="1">
           <mxGeometry x="944" y="567.5" width="101.01" height="170" as="geometry" />
