@@ -149,6 +149,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-1" value="┌───────────────────────────┐&#xa;                │   海上风电系统一体化智能优化框架   │&#xa;                └───────────────────────────┘&#xa;                             │&#xa; ┌───────────────────────────┴───────────────────────────┐&#xa; │                                                       │&#xa;▼                                                       ▼&#xa;数据层：气象数据、测风塔、雷达数据         模型层：信号分解、神经网络、群智能优化&#xa; │                                                       │&#xa; ▼                                                       ▼&#xa;高精度风速预测 ——→ 智能化风电场布局优化 ——→ 高可靠风功率预测&#xa; │                                                       │&#xa; ▼                                                       ▼&#xa;评估与决策层：风能资源评估、电网调度、运行控制" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="414" y="640" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高精度风速预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;智能风电厂布局优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠风电功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="790" y="980" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
