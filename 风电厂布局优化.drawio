@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MxCr46ms-wmQYGe_lzzs" name="研究内容">
-    <mxGraphModel dx="815" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="396" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,10 +120,10 @@
         <mxCell id="hbFm0ST349dYsHH4QLDd-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究三：海上&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;风电功率预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="645" y="490" width="162.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hbFm0ST349dYsHH4QLDd-4" value="&lt;font face=&quot;宋体&quot;&gt;提供未来风场特征（风速、风向)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="110" height="30" as="geometry" />
+        <mxCell id="hbFm0ST349dYsHH4QLDd-4" value="&lt;font face=&quot;宋体&quot;&gt;提供基础数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hbFm0ST349dYsHH4QLDd-5" value="&lt;font face=&quot;宋体&quot;&gt;提供机组空间结构与尾流约束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hbFm0ST349dYsHH4QLDd-5" value="&lt;font face=&quot;宋体&quot;&gt;提供结构约束与风机特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="420" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hbFm0ST349dYsHH4QLDd-6" value="&lt;font face=&quot;宋体&quot;&gt;综合前两者实现功率输出预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -160,6 +160,15 @@
         </mxCell>
         <mxCell id="0ihR6moDYFdj32MxsuhC-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠风电功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="790" y="980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="607" y="305" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="687" y="305" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="767" y="305" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
