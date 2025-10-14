@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram name="尾流效应" id="Vm7PEw9Rt9hHeArngInu">
-    <mxGraphModel dx="1666" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2015" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MxCr46ms-wmQYGe_lzzs" name="研究内容">
-    <mxGraphModel dx="396" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,10 +124,10 @@
           <mxGeometry x="450" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hbFm0ST349dYsHH4QLDd-5" value="&lt;font face=&quot;宋体&quot;&gt;提供结构约束与风机特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="420" width="95" height="30" as="geometry" />
+          <mxGeometry x="890" y="420" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hbFm0ST349dYsHH4QLDd-6" value="&lt;font face=&quot;宋体&quot;&gt;综合前两者实现功率输出预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="520" width="95" height="40" as="geometry" />
+          <mxGeometry x="280" y="560" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hbFm0ST349dYsHH4QLDd-15" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -161,14 +161,44 @@
         <mxCell id="0ihR6moDYFdj32MxsuhC-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠风电功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="790" y="980" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-8" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;尾流效应建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="607" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="0ihR6moDYFdj32MxsuhC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="607" y="305" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-14" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;群智能优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="685" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ihR6moDYFdj32MxsuhC-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="687" y="305" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-15" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;最大化年总发电量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="767" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="0ihR6moDYFdj32MxsuhC-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="767" y="305" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-16" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;非平稳信号分解&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="607" y="297.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-17" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;群智能优化参数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="685" y="297.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-19" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;构建混合预测模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="767" y="297.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-20" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;时空特征建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="607" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-21" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;深度学习驱动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="685" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-22" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ihR6moDYFdj32MxsuhC-23" value="&lt;font face=&quot;宋体&quot;&gt;“预测—优化—决策”一体化的海上风电系统智能优化框架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="556.25" y="520" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
