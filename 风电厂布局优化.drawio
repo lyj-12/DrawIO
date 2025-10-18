@@ -207,51 +207,63 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究内容 的副本" id="CjbeBIL2s_S-q6YLWHm1">
-    <mxGraphModel dx="332" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1188" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-0" />
         <mxCell id="btgNlDW8HTbPD_WJlKVF-1" parent="btgNlDW8HTbPD_WJlKVF-0" />
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;arcSize=7;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1142.5" y="610" width="347.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;arcSize=7;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1142.5" y="480" width="347.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;arcSize=7;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1142.5" y="350" width="347.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-0" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="460" y="780" width="310" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="580" y="440" width="270" height="70" as="geometry" />
+          <mxGeometry x="1135" y="920" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="580" y="360" width="270" height="70" as="geometry" />
+          <mxGeometry x="770" y="980" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="580" y="280" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究一：&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;自适应超参数寻优下的海上风速多尺度预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="1220" y="530" width="180" height="30" as="geometry" />
+          <mxGeometry x="1177" y="440" width="283" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究二：海上风电厂布局优化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="647.5" y="410" width="162.5" height="20" as="geometry" />
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究二：&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;考虑尾流效应与多目标约束的风电场布局优化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1173.5" y="580" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-7" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究三：海上&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;风电功率预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="645" y="490" width="162.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-8" value="&lt;font face=&quot;宋体&quot;&gt;提供基础数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="450" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="1030" y="455" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-9" value="&lt;font face=&quot;宋体&quot;&gt;提供结构约束与风机特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="890" y="420" width="95" height="30" as="geometry" />
+          <mxGeometry x="1520" y="580" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-10" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-10" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" target="RyXzSTvbIgzmZoP9mHIa-22" source="RyXzSTvbIgzmZoP9mHIa-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="310" as="sourcePoint" />
-            <mxPoint x="570" y="390" as="targetPoint" />
+            <mxPoint x="1135" y="404.96000000000004" as="sourcePoint" />
+            <mxPoint x="1135" y="484.96000000000004" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="310" />
-              <mxPoint x="540" y="390" />
+              <mxPoint x="1110" y="410" />
+              <mxPoint x="1110" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" target="RyXzSTvbIgzmZoP9mHIa-23" source="RyXzSTvbIgzmZoP9mHIa-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="400" as="sourcePoint" />
-            <mxPoint x="860" y="480" as="targetPoint" />
+            <mxPoint x="1500" y="544" as="sourcePoint" />
+            <mxPoint x="1500" y="624" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="890" y="400" />
-              <mxPoint x="890" y="480" />
+              <mxPoint x="1520" y="540" />
+              <mxPoint x="1520" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,17 +276,17 @@
         <mxCell id="btgNlDW8HTbPD_WJlKVF-15" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠风电功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="790" y="980" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-16" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;尾流效应建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="607" y="375" width="60" height="30" as="geometry" />
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-16" value="&lt;font face=&quot;宋体&quot;&gt;改进Jensen尾流模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1168.25" y="540" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="607" y="305" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-18" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;群智能优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="685" y="375" width="60" height="30" as="geometry" />
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-18" value="&lt;font face=&quot;宋体&quot;&gt;多目标优化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1278.5" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-19" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;最大化年总发电量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="767" y="375" width="60" height="30" as="geometry" />
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-19" value="&lt;font face=&quot;宋体&quot;&gt;改进群智能优化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ffcc99;strokeColor=#FFB366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1390" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="767" y="305" width="60" height="20" as="geometry" />
@@ -288,38 +300,89 @@
         <mxCell id="btgNlDW8HTbPD_WJlKVF-23" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;构建混合预测模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="767" y="297.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btgNlDW8HTbPD_WJlKVF-24" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;时空特征建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="607" y="455" width="60" height="30" as="geometry" />
+        <mxCell id="btgNlDW8HTbPD_WJlKVF-24" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;时空特征提取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1169" y="670" width="71.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-25" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;深度学习驱动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="685" y="455" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-26" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;高可靠功率预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="760" y="455" width="60" height="30" as="geometry" />
+          <mxGeometry x="607" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btgNlDW8HTbPD_WJlKVF-27" value="&lt;font face=&quot;宋体&quot;&gt;“海上风速预测—风电场布局优化—风功率预测”一体化的海上风电系统智能优化框架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="550" y="610" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXzSTvbIgzmZoP9mHIa-0" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="870" y="530" width="270" height="90" as="geometry" />
+          <mxGeometry x="1080" y="740" width="477.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RyXzSTvbIgzmZoP9mHIa-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;信号分解&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
           <mxGeometry x="1177" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RyXzSTvbIgzmZoP9mHIa-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;群智能优化参数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="1270" y="405" width="60" height="30" as="geometry" />
+          <mxGeometry x="1278.5" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RyXzSTvbIgzmZoP9mHIa-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;构建混合预测模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#b1ddf0;strokeColor=#99CCFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="1360" y="405" width="60" height="30" as="geometry" />
+          <mxGeometry x="1390" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RyXzSTvbIgzmZoP9mHIa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-6" target="RyXzSTvbIgzmZoP9mHIa-3">
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-6" target="RyXzSTvbIgzmZoP9mHIa-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RyXzSTvbIgzmZoP9mHIa-6" value="&lt;font face=&quot;宋体&quot;&gt;非平稳与非线性特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="1167" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="1167" y="356" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RyXzSTvbIgzmZoP9mHIa-9" value="&lt;font face=&quot;宋体&quot;&gt;非平稳与非线性特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
-          <mxGeometry x="1260" y="350" width="80" height="30" as="geometry" />
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-9" target="RyXzSTvbIgzmZoP9mHIa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-9" value="&lt;font face=&quot;宋体&quot;&gt;参数敏感与易陷局部最优&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1268.5" y="356" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-10" target="RyXzSTvbIgzmZoP9mHIa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-10" value="&lt;font face=&quot;宋体&quot;&gt;泛化性和鲁棒性不足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1380" y="356" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-14" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;研究三：&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;多源时空特征融合的海上风电功率预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1177" y="708" width="283" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-16" target="btgNlDW8HTbPD_WJlKVF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-16" value="&lt;font face=&quot;宋体&quot;&gt;平衡精度与计算效率&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1162.75" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-18" target="btgNlDW8HTbPD_WJlKVF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-18" value="&lt;font face=&quot;宋体&quot;&gt;仅考虑电量，忽视成本、载荷等&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1263.5" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-19" target="btgNlDW8HTbPD_WJlKVF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-19" value="&lt;font face=&quot;宋体&quot;&gt;易陷局部最优、收敛不稳定等&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1375" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-24" target="btgNlDW8HTbPD_WJlKVF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-24" value="&lt;font face=&quot;宋体&quot;&gt;多聚焦时间或空间单维特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1164.88" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-26" value="&lt;font face=&quot;宋体&quot;&gt;多尺度特征提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1272.63" y="670" width="71.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-27" value="&lt;font face=&quot;宋体&quot;&gt;物理约束融合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=light-dark(#ead853, #675000);strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1384.1200000000001" y="670" width="71.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-28" target="RyXzSTvbIgzmZoP9mHIa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-28" value="&lt;font face=&quot;宋体&quot;&gt;单尺度难捕获短时波动与长期趋势&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1255.5700000000002" y="620" width="105.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="btgNlDW8HTbPD_WJlKVF-1" source="RyXzSTvbIgzmZoP9mHIa-31" target="RyXzSTvbIgzmZoP9mHIa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyXzSTvbIgzmZoP9mHIa-31" value="&lt;font face=&quot;宋体&quot;&gt;缺乏物理一致性与可解释性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="btgNlDW8HTbPD_WJlKVF-1">
+          <mxGeometry x="1378.53" y="620" width="82.94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
