@@ -9909,7 +9909,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yrR93dcuGvhX7oQGxn3z" name="BMSC">
-    <mxGraphModel dx="1764" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1810" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11059,7 +11059,7 @@
         <mxCell id="2yhlcvMGWRb2U8MF93FM-64" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Small kernel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="652.75" y="1421.3300000000002" width="50.58" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2yhlcvMGWRb2U8MF93FM-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Peripheral encoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;fontSize=12;rotation=270;" parent="1" vertex="1">
+        <mxCell id="2yhlcvMGWRb2U8MF93FM-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Peripheral Encoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;fontSize=12;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="561.6899999999998" y="1444.51" width="98.3" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="2yhlcvMGWRb2U8MF93FM-69" value="&lt;span style=&quot;font-size: 11px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;AdaptiveAvgPool&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" parent="1" vertex="1">
