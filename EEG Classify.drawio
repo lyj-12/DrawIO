@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3" pages="15">
   <diagram name="第 1 页" id="JQvxnl0B23daqUgOH2Ub">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -9975,7 +9975,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yrR93dcuGvhX7oQGxn3z" name="BMSC">
-    <mxGraphModel dx="1846" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2015" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11911,7 +11911,7 @@
         <mxCell id="XbYZ9o9KZTFp626GF9X2-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Frequency Aware&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1452.87" y="1775.5" width="104.04" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="XbYZ9o9KZTFp626GF9X2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;dashed=1;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="XbYZ9o9KZTFp626GF9X2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;dashed=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1298.11" y="1872.83" width="113.07" height="98.09" as="geometry" />
         </mxCell>
         <mxCell id="XbYZ9o9KZTFp626GF9X2-16" value="upsample" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -12783,11 +12783,14 @@
         <mxCell id="oSsVJ--6rw12NPtQcYt2-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;residual&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="678.3" y="1671" width="45.9" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KLaKQ8X0d1fIHgcRHL02-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$y = y_{0} + \frac{x - x_{0}}{x_{1} - x_{0}} (y_{1} - y_{0})$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="KLaKQ8X0d1fIHgcRHL02-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$y = y_{0} + \frac{x - x_{0}}{x_{1} - x_{0}} (y_{1} - y_{0})$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="734.14" y="1388.73" width="110" height="22.33" as="geometry" />
         </mxCell>
-        <mxCell id="KLaKQ8X0d1fIHgcRHL02-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="2yhlcvMGWRb2U8MF93FM-71" target="2yhlcvMGWRb2U8MF93FM-8">
+        <mxCell id="KLaKQ8X0d1fIHgcRHL02-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="2yhlcvMGWRb2U8MF93FM-71" target="2yhlcvMGWRb2U8MF93FM-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O5dn23-B8eTA8YFAc2zD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="791" width="188" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
