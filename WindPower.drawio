@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
   <diagram name="第 1 页" id="kMOEjnf2m4gCsTgA1ALF">
-    <mxGraphModel dx="780" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,33 @@
         </mxCell>
         <mxCell id="Txm3j0o09Tfv61zlQ3OZ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="负样本" vertex="1">
           <mxGeometry height="30" width="60" x="745" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-11" edge="1" parent="1" source="r_Tqizsx0uEOSmDtbzNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r_Tqizsx0uEOSmDtbzNH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&amp;lt;br/&amp;gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&amp;lt;br/&amp;gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&amp;lt;br/&amp;gt;normal;punctuation-wrap:simple&quot;&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;急流&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;时高频突然&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;爆发&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;，&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&amp;lt;br/&amp;gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&amp;lt;br/&amp;gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&amp;lt;br/&amp;gt;normal;punctuation-wrap:simple&quot;&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;发生时刻不规律&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1110" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-12" edge="1" parent="1" source="r_Tqizsx0uEOSmDtbzNH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="r_Tqizsx0uEOSmDtbzNH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&lt;br/&gt;normal;punctuation-wrap:simple&quot;&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;急流&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;期通道相关性&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;突变&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1255" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-13" edge="1" parent="1" source="r_Tqizsx0uEOSmDtbzNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r_Tqizsx0uEOSmDtbzNH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&lt;br/&gt;normal;punctuation-wrap:simple&quot;&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;固定&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; vertical-align: baseline;&quot;&gt;窗口权重失效&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="115" x="1402.5" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: black; text-align: left; vertical-align: baseline;&quot;&gt;时变&lt;/span&gt;&lt;span style=&quot;color: black; text-align: left; vertical-align: baseline;&quot;&gt;频率结构&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&amp;lt;br/&amp;gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&amp;lt;br/&amp;gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&amp;lt;br/&amp;gt;normal;punctuation-wrap:simple&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;&amp;nbsp;多&lt;/span&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;变量跨层&lt;/span&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;解耦&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1280" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="r_Tqizsx0uEOSmDtbzNH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&amp;lt;br/&amp;gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&amp;lt;br/&amp;gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&amp;lt;br/&amp;gt;normal;punctuation-wrap:simple&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;能量&lt;/span&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;分布非&lt;/span&gt;&lt;span style=&quot;vertical-align: baseline;&quot;&gt;平稳&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1415" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
