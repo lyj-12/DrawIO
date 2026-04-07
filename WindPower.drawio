@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="第 1 页" id="kMOEjnf2m4gCsTgA1ALF">
-    <mxGraphModel dx="1130" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="937" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Txm3j0o09Tfv61zlQ3OZ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TCN encoder&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（共享权重）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Txm3j0o09Tfv61zlQ3OZ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TCN_KSFPL encoder&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（共享权重）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="240" x="565" y="965" as="geometry" />
         </mxCell>
         <mxCell id="Txm3j0o09Tfv61zlQ3OZ-9" edge="1" parent="1" source="Txm3j0o09Tfv61zlQ3OZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Txm3j0o09Tfv61zlQ3OZ-18">
@@ -240,14 +240,14 @@
         <mxCell id="Txm3j0o09Tfv61zlQ3OZ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" value="Contrastive&amp;nbsp;loss" vertex="1">
           <mxGeometry height="30" width="90" x="695" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="Txm3j0o09Tfv61zlQ3OZ-23" parent="1" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" value="Total loss = MSE loss +入* Contrastive loss + reg" vertex="1">
+        <mxCell id="Txm3j0o09Tfv61zlQ3OZ-23" parent="1" style="text;whiteSpace=wrap;fontFamily=Times New Roman;" value="Total loss = MSE loss + lam_c * Contrastive loss " vertex="1">
           <mxGeometry height="30" width="255" x="550" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="Txm3j0o09Tfv61zlQ3OZ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="正样本" vertex="1">
-          <mxGeometry height="30" width="60" x="655" y="880" as="geometry" />
+          <mxGeometry height="30" width="60" x="655" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Txm3j0o09Tfv61zlQ3OZ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="负样本" vertex="1">
-          <mxGeometry height="30" width="60" x="745" y="880" as="geometry" />
+          <mxGeometry height="30" width="60" x="745" y="890" as="geometry" />
         </mxCell>
         <mxCell id="r_Tqizsx0uEOSmDtbzNH-11" edge="1" parent="1" source="r_Tqizsx0uEOSmDtbzNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r_Tqizsx0uEOSmDtbzNH-5">
           <mxGeometry relative="1" as="geometry" />
@@ -664,6 +664,9 @@
         </mxCell>
         <mxCell id="RPaDx9nfXGEz9bGBoWZV-56" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&amp;lt;br/&amp;gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&amp;lt;br/&amp;gt;embed;vertical-align:baseline;mso-line-break-override:restrictions;word-break:&amp;lt;br/&amp;gt;normal;punctuation-wrap:simple&quot;&gt;&lt;span style=&quot;font-family: 宋体; color: black; font-weight: normal; vertical-align: baseline;&quot;&gt;如果系统是&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; color: black; font-weight: normal; font-style: normal;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; color: black; font-weight: normal; font-style: normal;&quot;&gt;正常&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; color: black; font-weight: normal; font-style: normal;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; color: black; font-weight: normal; font-style: normal;&quot;&gt;的，那么 &lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; color: black; font-weight: normal; font-style: normal;&quot;&gt;latent&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; color: black; font-weight: normal; font-style: normal;&quot;&gt;空间中的状态转移可以用一个线性算子&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; color: black; font-weight: normal; vertical-align: baseline;&quot;&gt;K&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; color: black; font-weight: normal; font-style: normal;&quot;&gt;来逼近&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="2590" y="1950" as="geometry" />
+        </mxCell>
+        <mxCell id="RPaDx9nfXGEz9bGBoWZV-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="锚点" vertex="1">
+          <mxGeometry height="30" width="60" x="565" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
