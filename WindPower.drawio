@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="2">
   <diagram name="第 1 页" id="kMOEjnf2m4gCsTgA1ALF">
     <mxGraphModel dx="775" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -796,6 +796,85 @@
         </mxCell>
         <mxCell id="897Gu9AF6XE7jafLQXrl-40" parent="1" style="text;whiteSpace=wrap;" value="period list" vertex="1">
           <mxGeometry height="20" width="60" x="400" y="1655" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yQxtDMDyA6Hqk8ePmsF1" name="第 2 页">
+    <mxGraphModel dx="651" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-7" edge="1" parent="1" source="OsilmXUxO5uZFBEP2R4v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsilmXUxO5uZFBEP2R4v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-8" edge="1" parent="1" source="OsilmXUxO5uZFBEP2R4v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsilmXUxO5uZFBEP2R4v-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="380" />
+              <mxPoint x="400" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-9" edge="1" parent="1" source="OsilmXUxO5uZFBEP2R4v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OsilmXUxO5uZFBEP2R4v-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="380" />
+              <mxPoint x="490" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-10" edge="1" parent="1" source="OsilmXUxO5uZFBEP2R4v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OsilmXUxO5uZFBEP2R4v-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="380" />
+              <mxPoint x="670" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-11" edge="1" parent="1" source="OsilmXUxO5uZFBEP2R4v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OsilmXUxO5uZFBEP2R4v-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="380" />
+              <mxPoint x="760" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="自动化分拣系统" vertex="1">
+          <mxGeometry height="50" width="110" x="525" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="输送功能" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="检验功能" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="分拣工位" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="控制模式" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="人机交互功能" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-12" parent="1" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=10;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="执行分拣动作" vertex="1">
+          <mxGeometry height="20" width="70" x="545" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-13" parent="1" style="text;whiteSpace=wrap;fontSize=10;fontFamily=Helvetica;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="实时显示运行状态、参数设置界面、报警提示信息" vertex="1">
+          <mxGeometry height="40" width="100" x="720" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-14" parent="1" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=10;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="自动模式、手动模式、急停功能" vertex="1">
+          <mxGeometry height="40" width="90" x="625" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-15" parent="1" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=10;fontColor=default;fontStyle=0;align=left;verticalAlign=top;" value="有无检测、位置检测、属性识别" vertex="1">
+          <mxGeometry height="40" width="90" x="445" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-16" parent="1" style="text;whiteSpace=wrap;fontSize=10;autosizeText=0;" value="实现零件从进料端到分拣工位的连续输送，支持启停控制、正反转，输送速度可调”" vertex="1">
+          <mxGeometry height="65" width="100" x="340" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="OsilmXUxO5uZFBEP2R4v-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;×2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="605" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
